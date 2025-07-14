@@ -52,8 +52,8 @@ Proses analisis data dalam proyek ini mengikuti alur kerja yang sistematis, mula
 1.  **Lingkungan**: Kode ini dikembangkan menggunakan **Google Colaboratory**.
 2.  **Klon Repositori**:
     ```bash
-    git clone [https://github.com/haerulyudaaditiya/Segmentasi-Pelanggan-KMeans.git](https://github.com/haerulyudaaditiya/Segmentasi-Pelanggan-KMeans.git)
-    cd nama-repositori
+    git clone https://github.com/haerulyudaaditiya/Segmentasi-Pelanggan-KMeans.git
+    cd Segmentasi-Pelanggan-KMeans
     ```
 3.  **Buka di Colab**: Unggah file notebook (`.ipynb`) ke Google Colab.
 4.  **Upload Dataset**: Pastikan file `Online Retail.xlsx` diunggah ke lingkungan Colab saat diminta oleh skrip.
